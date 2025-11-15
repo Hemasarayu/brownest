@@ -1,6 +1,6 @@
-Brownest: Smart Family Finance App
+Grownest: Smart Family Finance App
 
-Brownest is a modern React Native application designed to help families build healthy financial habits together. It empowers parents and teens with tools to manage spending, track savings goals, monitor allowances, and develop long-term financial literacy.
+Grownest is a modern React Native application designed to help families build healthy financial habits together. It empowers parents and teens with tools to manage spending, track savings goals, monitor allowances, and develop long-term financial literacy.
 
 * Features
 ->Secure Authentication
@@ -67,7 +67,7 @@ Brownest is a modern React Native application designed to help families build he
 
 ->Positive money culture reinforcement
 
-*Why Brownest?
+*Why Grownest?
 
 ->Family-first financial literacy with shared accountability
 
